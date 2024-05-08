@@ -1,0 +1,14 @@
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\bin\Debug\net8.0\Constantes.exe
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\bin\Debug\net8.0\Constantes.deps.json
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\bin\Debug\net8.0\Constantes.dll
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\bin\Debug\net8.0\Constantes.pdb
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.dll
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.pdb
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+C:\Users\janaina\Documents\0_C#\Constantes\Constantes\obj\Debug\net8.0\ref\Constantes.dll
