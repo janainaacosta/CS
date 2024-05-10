@@ -1,0 +1,14 @@
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\bin\Debug\net8.0\EntradaDeDado-2.exe
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\bin\Debug\net8.0\EntradaDeDado-2.deps.json
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\bin\Debug\net8.0\EntradaDeDado-2.runtimeconfig.json
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\bin\Debug\net8.0\EntradaDeDado-2.dll
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\bin\Debug\net8.0\EntradaDeDado-2.pdb
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.AssemblyInfoInputs.cache
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.AssemblyInfo.cs
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.csproj.CoreCompileInputs.cache
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.dll
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\refint\EntradaDeDado-2.dll
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.pdb
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\EntradaDeDado-2.genruntimeconfig.cache
+C:\Users\janaina\Documents\0_C#\EntradaDeDado-2\EntradaDeDado-2\obj\Debug\net8.0\ref\EntradaDeDado-2.dll
