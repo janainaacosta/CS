@@ -1,0 +1,14 @@
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\janaina\Documents\0_C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll
